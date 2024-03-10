@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 Welcome to our lab's GitHub page! We specialize in the exciting field of computer vision, with a focus on face and expression recognition. Our goal is to push the boundaries of what's possible with AI to improve human-computer interaction and assistive technologies, enhance user experience in digital media, and explore new ways of understanding human emotions.
 
-### 🧑🏻‍💻 Introduction
+## 🧑🏻‍💻 Introduction
 Welcome to the CVLab at Hoseo University, where innovation meets compassion at the intersection of computer vision and artificial intelligence. In our lab, we are driven by the vision to harness the power of AI to forge new pathways in human-computer interaction and develop state-of-the-art assistive technologies. Our primary research focus lies in the nuanced fields of face and expression recognition, aiming not only to advance technological capabilities but also to deepen our understanding of human emotions.
 
 Our endeavors are dedicated to improving how individuals interact with technology, making digital environments more intuitive, accessible, and responsive to the unique needs of users. By enhancing the user experience in digital media, we aim to create more engaging, effective, and personalized interactions. Furthermore, our research seeks to unlock new dimensions of empathy and emotional intelligence in machines, enabling technologies that understand and adapt to human emotions in profound ways.
