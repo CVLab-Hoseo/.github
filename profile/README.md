@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to our lab's GitHub page! We specialize in the exciting field of computer vision, with a focus on face and expression recognition. Our goal is to push the boundaries of what's possible with AI to improve human-computer interaction and assistive technologies, enhance user experience in digital media, and explore new ways of understanding human emotions.
+
 <!--
 
 **Here are some ideas to get you started:**
